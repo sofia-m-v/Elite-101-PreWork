@@ -1,2 +1,16 @@
-# Elite-101-PreWork
-Adding a new line to repo
+# Introduction
+
+
+This is a repository created by *sofia*
+
+
+## Usage
+
+
+Run this command to execute the application:
+
+
+`python filename.py`
+
+ 
+
